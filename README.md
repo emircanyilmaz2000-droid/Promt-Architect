@@ -16,7 +16,7 @@ Technically, the app is lightweight and self-contained, fully client-side, requi
 
 Prompt Architect stands as a bridge between nostalgia and innovation, a digital studio where design sensibility meets machine intelligence. It invites users to slow down, observe the anatomy of prompts, and treat AI image generation not as an algorithmic black box, but as a medium shaped by words, structure, and intention.
 
-**Live Demo:** [**Prompt Architect](https://emircanyilmaz2000-droid.github.io/Promt-Architect/)
+**Live Demo:** [**Prompt Architect**](https://emircanyilmaz2000-droid.github.io/Promt-Architect/)
 
 
 # Academic Context
