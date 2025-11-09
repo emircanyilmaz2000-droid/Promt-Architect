@@ -5,14 +5,12 @@
 </p>
 
 **Prompt Architect** is a modular framework for writing prompts, a tool that translates linguistic structure into design logic.  
-Built in a Windows 98–inspired interface, it reinterprets early computing as a conceptual model for working with contemporary AI systems.  
-Its visual language, informed by the open-source [98.css](https://jdan.github.io/98.css) framework, restores clarity, hierarchy, and rhythm to digital interaction.
+Built in a Windows 98–inspired interface, it reinterprets early computing as a conceptual model for working with contemporary AI systems. Its visual language, informed by the open-source 98.css framework, restores clarity, hierarchy, and rhythm to digital interaction.
 
 Rather than typing text sequentially, users compose prompts as systems. Each module — Subject, Environment, Composition, Lighting — contributes to a coherent, human-readable instruction set. The process replaces trial-and-error with structural intention, turning language into a design material. The result is a diffusion-ready prompt, portable across models like Midjourney, Stable Diffusion, Flux, and ChatGPT Images.
 
 The interface recalls the calm logic of early software: windows, menus, and contextual layers arranged in a precise, visual syntax.  
-Beneath this retro surface runs a live JavaScript core, generating plain-English prompts in real time — responsive to each user input.  
-The work lies as much in observing the rhythm of phrasing as in crafting images, linking form and semantics through design.
+Beneath this retro surface runs a live JavaScript core, generating plain-English prompts in real time, responsive to each user input. The work lies as much in observing the rhythm of phrasing as in crafting images, linking form and semantics through design.
 
 ## Cross-Platform Web App
 
@@ -27,7 +25,7 @@ Prompt Architect functions as a Progressive Web App (PWA), installable across iO
 The development process combined open-model reasoning systems with retro-influenced interface frameworks.  
 It draws from Google’s Gemma family and GPT-OSS architectures for linguistic patterning, alongside distilled Claude-style models for reasoning, refinement, and tone.
 
-The project positions itself between nostalgia and innovation — a studio for structured imagination.  
+The project positions itself between nostalgia and innovation, a studio for structured imagination. 
 It suggests that prompt writing is not mere configuration, but a form of compositional authorship.
 
 ## Academic Context
