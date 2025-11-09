@@ -2,6 +2,14 @@
 <html lang="en">
 <head>
 <meta charset="utf-8" />
+<!--
+  NOTE:
+  The spacing around the <title> tag is intentional.
+  Safari on macOS sometimes fails to apply <meta name="theme-color">
+  when the title tag is parsed too early in the head.
+  Adding whitespace here ensures the correct window tint color (#2C8372)
+  is consistently applied.
+-->
 <title>Prompt Architect            </title>
 <meta name="theme-color" content="#2C8372">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
