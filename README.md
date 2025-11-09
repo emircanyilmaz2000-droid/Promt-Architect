@@ -1,7 +1,7 @@
 # Promt-Architect
 
 <p align="center">
-  <img src="Promt-Architect.jpeg" alt="Prompt Architect Screenshot">
+  <img src="Promt-Architect_Preview.png" alt="Prompt Architect Screenshot">
 </p>
 
 Prompt Architect is a fully interactive, web-based tool designed to make prompt engineering tangible, visual, and systematic. Built in a Windows 98–inspired interface, it reimagines creative AI workflows through the logic of early computing, drawing on the structural clarity and interaction patterns of the 98.css￼ open-source framework, where clarity, modularity, and structure define both form and function.
