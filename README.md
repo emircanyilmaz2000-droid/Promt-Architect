@@ -9,8 +9,7 @@ Built in a Windows 98–inspired interface, it reinterprets early computing as a
 
 Rather than typing text sequentially, users compose prompts as systems. Each module — Subject, Environment, Composition, Lighting — contributes to a coherent, human-readable instruction set. The process replaces trial-and-error with structural intention, turning language into a design material. The result is a diffusion-ready prompt, portable across models like Midjourney, Stable Diffusion, Flux, and ChatGPT Images.
 
-The interface recalls the calm logic of early software: windows, menus, and contextual layers arranged in a precise, visual syntax.  
-Beneath this retro surface runs a live JavaScript core, generating plain-English prompts in real time, responsive to each user input. The work lies as much in observing the rhythm of phrasing as in crafting images, linking form and semantics through design.
+The interface recalls the calm logic of early software: windows, menus, and contextual layers arranged in a precise, visual syntax. Beneath this retro surface runs a live JavaScript core, generating plain-English prompts in real time, responsive to each user input. The work lies as much in observing the rhythm of phrasing as in crafting images, linking form and semantics through design.
 
 ## Cross-Platform Web App
 
@@ -32,6 +31,6 @@ It suggests that prompt writing is not mere configuration, but a form of composi
 
 Developed within the Faculty of Design at Darmstadt University of Applied Sciences, Prompt Architect was conceived as part of the research framework [It worked right away with ChatGPT](https://github.com/414design/it_worked_right_away_with_chatgpt).
 
-The collective explores how open language models and “vibe coding” can expand design processes without relying on closed, proprietary systems. The project argues for a conscious engagement with AI — not as automation, but as reflection. It reclaims digital tools as spaces of creative structure, where design, language, and intelligence meet.
+The collective explores how open language models and “vibe coding” can expand design processes without relying on closed, proprietary systems. The project argues for a conscious engagement with AI, not as automation, but as reflection. It reclaims digital tools as spaces of creative structure, where design, language, and intelligence meet.
 
 ### Live Demo: [**Prompt Architect**](https://emircanyilmaz2000-droid.github.io/Promt-Architect/)
