@@ -4,8 +4,7 @@
   <img src="img/Promt-Architect_Preview.png" alt="Prompt Architect Screenshot" width="820">
 </p>
 
-**Prompt Architect** is a modular framework for writing prompts, a tool that translates linguistic structure into design logic.  
-Built in a Windows 98–inspired interface, it reinterprets early computing as a conceptual model for working with contemporary AI systems. Its visual language, informed by the open-source 98.css framework, restores clarity, hierarchy, and rhythm to digital interaction.
+**Prompt Architect** is a modular framework for writing prompts, a tool that translates linguistic structure into design logic. Built in a Windows 98–inspired interface, it reinterprets early computing as a conceptual model for working with contemporary AI systems. Its visual language, informed by the open-source 98.css framework, restores clarity, hierarchy, and rhythm to digital interaction.
 
 Rather than typing text sequentially, users compose prompts as systems. Each module — Subject, Environment, Composition, Lighting — contributes to a coherent, human-readable instruction set. The process replaces trial-and-error with structural intention, turning language into a design material. The result is a diffusion-ready prompt, portable across models like Midjourney, Stable Diffusion, Flux, and ChatGPT Images.
 
