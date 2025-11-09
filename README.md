@@ -29,5 +29,5 @@ a design toolkit and experiment exploring how AI and vibe coding can expand crea
 Developed by students at Darmstadt University of Applied Sciences — Faculty of Design, the project proves that open language models can empower designers and enable new approaches to creative practice.
 It’s a call to use AI not just for convenience, but consciously, as a tool for reflection, experimentation, and design intelligence.
 
-Part of the collective research project [**It worked right away with ChatGPT — Faculty of Design, h_da**](https://github.com/414design/it_worked_right_away_with_chatgpt)
+Part of the collective research project [**It worked right away with ChatGPT — Faculty of Design, h_da**](https://felixdoelker.de/it_worked_right_away_with_chatgpt/)
 
