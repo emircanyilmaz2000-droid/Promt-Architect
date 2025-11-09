@@ -1,6 +1,8 @@
 # Promt-Architect
 
-![Prompt Architect Screenshot](img/promtarchitect.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/emircanyilmaz2000-droid/Promt-Architect/main/img/promtarchitect.png" alt="Prompt Architect Screenshot" width="800">
+</p>
 
 Prompt Architect is a fully interactive, web-based tool designed to make prompt engineering tangible, visual, and systematic. Built in a Windows 98–inspired interface, it reimagines creative AI workflows through the logic of early computing, where clarity, modularity, and structure define both form and function.
 
