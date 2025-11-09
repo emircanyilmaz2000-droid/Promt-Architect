@@ -1,70 +1,99 @@
 # Prompt Architect — Modular AI Prompt Builder
 
 <p align="center">
-  <img src="img/Promt-Architect_Preview.png" alt="Prompt Architect Screenshot">
+  <img src="img/Promt-Architect_Preview.png" alt="Prompt Architect Screenshot" width="800" style="margin-bottom: 28px;">
 </p>
 
-**Prompt Architect** is a fully interactive, web-based tool designed to make prompt engineering tangible, visual, and systematic.  
-Built in a **Windows 98–inspired interface**, it reimagines creative AI workflows through the logic of early computing —  
-drawing on the structural clarity and interaction patterns of the open-source [**98.css**](https://jdan.github.io/98.css/) framework,  
-where modularity, precision, and hierarchy define both form and function.
+<div align="center" style="max-width: 700px; margin: 0 auto; text-align: left;">
 
-At its core, Prompt Architect serves as a **modular master prompt builder** for generative systems such as  
-**Midjourney**, **Stable Diffusion**, **Flux**, and **ChatGPT Images**.  
-Rather than writing prompts line by line, users construct them from discrete modules.  
-Each field contributes to a coherent, human-readable prompt that balances linguistic precision with creative flexibility —  
-a cross-platform, diffusion-ready prompt built through design thinking rather than trial and error.
+**Prompt Architect** is a modular framework for writing prompts —  
+a tool that translates linguistic structure into design logic.  
+Built in a Windows 98–inspired interface, it reinterprets early computing  
+as a conceptual model for working with contemporary AI systems.  
+Its visual language, informed by the open-source 98.css framework,  
+restores clarity, hierarchy, and rhythm to digital interaction.
 
-The interface merges retro visual identity with modern AI logic.  
-Dropdown menus, windows, and contextual guides emulate a classic desktop environment while retaining full browser interactivity.  
-Behind the nostalgic surface lies a dynamic JavaScript core that generates structured, plain-English prompts in real time.  
-Tooltips and structural references help users understand how visual composition, linguistic tone, and aesthetic detail interact within AI image generation.
+Rather than typing text sequentially, users compose prompts as systems.  
+Each module — Subject, Environment, Composition, Lighting — contributes  
+to a coherent, human-readable instruction set. The process replaces  
+trial-and-error with structural intention, turning language into  
+a design material. The result is a diffusion-ready prompt,  
+portable across models like Midjourney, Stable Diffusion, Flux,  
+and ChatGPT Images.
+
+The interface recalls the calm logic of early software:  
+windows, menus, and contextual layers arranged in a precise, visual syntax.  
+Beneath this retro surface runs a live JavaScript core, generating  
+plain-English prompts in real time — responsive to each user input.  
+The work lies as much in observing the rhythm of phrasing as in  
+crafting images, linking form and semantics through design.
+
+</div>
 
 ---
 
 ## Cross-Platform Web App
 
 <p align="center">
-  <img src="img/Promt-Architect_PWA.png" alt="Prompt Architect Interface" width="600">
+  <img src="img/Promt-Architect_PWA.png" alt="Prompt Architect Interface" width="600" style="margin-bottom: 24px;">
 </p>
 
-Prompt Architect is fully optimized as a **Progressive Web App (PWA)** —  
-it can be added to the home screen on **iOS**, **Android**, **macOS**, or run directly in the browser like a native desktop app.  
-Custom icons, offline caching, and safe-area handling ensure a consistent, immersive experience across devices.  
+<div align="center" style="max-width: 700px; margin: 0 auto; text-align: left;">
 
-The app is **lightweight, self-contained, and entirely client-side**, requiring **no backend or API keys** —  
-preserving accessibility and user privacy.
+Prompt Architect functions as a Progressive Web App (PWA),  
+installable across iOS, Android, and macOS,  
+or accessible directly through any modern browser.  
+It operates entirely on the client side,  
+with no backend or API dependencies.  
+
+Offline caching, adaptive icons, and safe-area integration  
+create a consistent, device-agnostic experience.  
+The system is lightweight, transparent, and self-contained —  
+a small autonomous program that treats the browser itself  
+as a site of design practice.
+
+</div>
 
 ---
 
 ## Development Context
 
-The development process integrated a combination of **open-model reasoning systems** and **retro-inspired interface frameworks**.  
-The project draws from **Google’s Gemma family** and **GPT-OSS architectures** for linguistic patterning,  
-alongside community-distilled **Claude-style models** for refinement, structure, and reasoning flow.
+<div align="center" style="max-width: 700px; margin: 0 auto; text-align: left;">
 
-Prompt Architect stands as a bridge between **nostalgia and innovation** —  
-a digital studio where design sensibility meets machine intelligence.  
-It invites users to slow down, observe the anatomy of prompts,  
-and treat AI image generation not as an algorithmic black box,  
-but as a medium shaped by words, structure, and intention.
+The development process combined open-model reasoning systems  
+with retro-influenced interface frameworks.  
+It draws from Google’s Gemma family and GPT-OSS architectures  
+for linguistic patterning, alongside distilled Claude-style models  
+for reasoning, refinement, and tone.  
+
+The project positions itself between nostalgia and innovation —  
+a studio for structured imagination.  
+It suggests that prompt writing is not mere configuration,  
+but a form of compositional authorship.
+
+</div>
 
 ---
 
 ## Academic Context
 
-This tool was created as part of a university course project at the  
-**Faculty of Design, Darmstadt University of Applied Sciences**.  
-It emerged within the collective research framework  
-**[It worked right away with ChatGPT](https://github.com/414design/it_worked_right_away_with_chatgpt)** —  
-a design toolkit and experiment exploring how AI and vibe coding can expand creative possibilities  
-without relying on proprietary, closed models.
+<div align="center" style="max-width: 700px; margin: 0 auto; text-align: left;">
 
-Developed by students at Darmstadt University of Applied Sciences — Faculty of Design,  
-the project demonstrates that open language models can empower designers and enable new approaches to creative practice.  
-It’s a call to use AI **not just for convenience, but consciously** —  
-as a tool for reflection, experimentation, and design intelligence.
+Developed within the Faculty of Design at Darmstadt University of Applied Sciences,  
+Prompt Architect was conceived as part of the research framework  
+[It worked right away with ChatGPT](https://github.com/414design/it_worked_right_away_with_chatgpt).  
+
+The collective explores how open language models and "vibe coding"  
+can expand design processes without relying on closed, proprietary systems.  
+
+The project argues for a conscious engagement with AI —  
+not as automation, but as reflection.  
+It reclaims digital tools as spaces of creative structure,  
+where design, language, and intelligence meet.
+
+</div>
 
 ---
 
-### [Live Demo → Prompt Architect](https://emircanyilmaz2000-droid.github.io/Promt-Architect/)
+### Live Demo  
+[Prompt Architect](https://emircanyilmaz2000-droid.github.io/Promt-Architect/)
