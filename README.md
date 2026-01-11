@@ -32,4 +32,4 @@ Developed within the Faculty of Design at Darmstadt University of Applied Scienc
 
 The collective explores how open language models and “vibe coding” can expand design processes without relying on closed, proprietary systems. The project argues for a conscious engagement with AI, not as automation, but as reflection. It reclaims digital tools as spaces of creative structure, where design, language, and intelligence meet.
 
-### Live Demo: [**Prompt Architect**](https://emircanyilmaz2000-droid.github.io/Promt-Architect/)
+### Live Demo: [**Prompt Architect / promtarchitect.art**](https://emircanyilmaz2000-droid.github.io/Promt-Architect/)
